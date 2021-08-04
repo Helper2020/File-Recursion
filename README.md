@@ -1,11 +1,12 @@
 # File-Recursion
 Show Me The Data Structures Udacity Project
 
-Finding Files
+Finding Files.
+
 For this problem, the goal is to write code for finding all files under a directory (and all directories beneath it) that end with ".c"
 
 
-./testdir
+./testdir <br>
 ./testdir/subdir1
 ./testdir/subdir1/a.c
 ./testdir/subdir1/a.h
