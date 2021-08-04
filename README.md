@@ -5,7 +5,7 @@ Finding Files.
 
 For this problem, the goal is to write code for finding all files under a directory (and all directories beneath it) that end with ".c"
 
-Here is the test directory!
+Here is the test directory! <br>
 ./testdir <br>
 ./testdir/subdir1  <br>
 ./testdir/subdir1/a.c  <br>
